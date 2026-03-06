@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
-This repository contains the implementation, experiments, and datasets for my Master's Thesis: **"Sensitivity of Causal Effect Estimates Under Assumed Gaussian Noise to the True Latent Noise Distribution"**.
+This repository contains the implementation, experiments, and datasets for my Master's Thesis: **"Sensitivity of Causal Effect Estimates Under Assumed Gaussian Noise to the True Latent Noise Distribution"**. [Available here](https://liu.diva-portal.org/smash/record.jsf?pid=diva2%3A2035597&cswid=6943)
 
 ## 📄 Abstract
 Estimating causal effects from observational data is frequently challenged by the presence of unobserved confounders. The $\rho$-GNF estimator addresses this challenge by using deep generative models to perform sensitivity analysis, parametrizing the latent confounding structure using a Gaussian copula. However, the reliability of this estimator when the true underlying latent distribution deviates from the Gaussian copula assumption remains a critical open question.
